@@ -5,7 +5,7 @@
 ## MacOS X
 **/.DS_Store
 *.DS_Store
-.xcworkspace/
+.xcworkspacedata/
 
 ## User settings
 xcuserdata/
