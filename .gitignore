@@ -5,6 +5,7 @@
 ## MacOS X
 **/.DS_Store
 *.DS_Store
+project.xcworkspace/
 
 ## User settings
 xcuserdata/
